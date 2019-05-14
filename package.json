@@ -1,0 +1,29 @@
+{
+  "name": "liri-hw",
+  "version": "1.0.0",
+  "description": "playlist",
+  "main": "keys.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marrvill/LIRIHW.git"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "Marlon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marrvill/LIRIHW/issues"
+  },
+  "homepage": "https://github.com/Marrvill/LIRIHW#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dateformat": "^3.0.3",
+    "dotenv": "^8.0.0",
+    "node-spotify-api": "^1.1.1",
+    "node.js": "0.0.0"
+  }
+}
