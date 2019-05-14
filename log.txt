@@ -1,0 +1,104 @@
+
+Lil Wayne concert information:
+Location: Columbus, OH
+Venue: Nationwide Arena
+Location: Hartford, CT
+Date: 06/29/2019
+Date: 06/27/2019
+Venue: XFINITY Theatre
+Venue: Saratoga Performing Arts Center
+Location: Saratoga Springs, NY
+Venue: Ruoff Home Mortgage Music Center
+Date: 07/01/2019
+Location: Indianapolis, IN
+Venue: Hersheypark Stadium
+Date: 07/03/2019
+Date: 07/05/2019
+Venue: KeyBank Pavilion
+Location: Burgettstown, PA
+Date: 07/06/2019
+Location: Hershey, PA
+Location: Mansfield, MA
+Venue: Xfinity Center
+Date: 07/10/2019
+Venue: Jiffy Lube Live
+Location: Bristow, VA
+Date: 07/11/2019
+Venue: Darling's Waterfront Pavilion
+Date: 07/13/2019
+Venue: Blossom Music Center
+Location: Cuyahoga Falls, OH
+Location: Bangor, ME
+Venue: Darien Lake Amphitheatre
+Location: Darien Center, NY
+Date: 07/17/2019
+Venue: Veterans United Home Loans Amphitheater
+Location: Virginia Beach, VA
+Date: 07/20/2019
+Date: 07/16/2019
+Location: Columbia, MD
+Date: 07/21/2019
+Venue: PNC Music Pavilion
+Location: Charlotte, NC
+Date: 07/23/2019
+Venue: Coral Sky Amphitheatre
+Location: West Palm Beach, FL
+Date: 07/25/2019
+Venue: MIDFLORIDA Credit Union Amphitheatre
+Venue: Merriweather Post Pavilion
+Date: 07/26/2019
+Venue: Cellairis Amphitheatre at Lakewood
+Location: Atlanta, GA
+Date: 07/27/2019
+Venue: Dailys Place
+Location: Jacksonville, FL
+Location: Tampa, FL
+Venue: Cynthia Woods Mitchell Pavilion
+Location: Houston, TX
+Date: 07/29/2019
+Date: 07/31/2019
+Venue: Austin360 Amphitheater
+Location: Austin, TX
+Location: Dallas, TX
+Date: 08/02/2019
+Venue: Ak-Chin Pavilion
+Location: Phoenix, AZ
+Date: 08/01/2019
+Venue: North Island Credit Union Amphitheatre
+Location: San Diego, CA
+Venue: The Dos Equis Pavilion
+Location: Los Angeles, CA
+Date: 08/08/2019
+Venue: FivePoint Amphitheatre
+Location: Irvine, CA
+Date: 08/27/2019
+Venue: Sunlight Supply Amphitheater
+Location: Portland, OR
+Date: 08/30/2019
+Venue: White River Amphitheatre
+Location: Seattle, WA
+Date: 08/31/2019
+Venue: USANA Amphitheatre
+Location: Salt Lake City, UT
+Date: 09/02/2019
+Venue: Pepsi Center
+Location: Denver, CO
+Date: 09/04/2019
+Venue: Providence Medical Center Amphitheater
+Location: Kansas City, MO
+Date: 09/08/2019
+Venue: DTE Energy Music Theatre
+Location: Detroit, MI
+Date: 09/10/2019
+Venue: Hollywood Casino Amphitheatre
+Location: St. Louis, MO
+Date: 09/14/2019
+Venue: Riverbend Music Center
+Location: Cincinnati, OH
+Date: 09/16/2019
+Venue: BB&T Pavilion
+Location: Camden, NJ
+Date: 08/05/2019
+Date: 09/18/2019
+Date: 08/07/2019
+Venue: The Forum
